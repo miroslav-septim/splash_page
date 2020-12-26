@@ -1,0 +1,43 @@
+* {
+    box-sizing:border-box;
+    margin:0;
+}
+
+.header img {
+    float: right;
+    width: 60px;
+}
+
+.header h1 {
+    padding:10px;
+}
+
+.main {
+    display: inline-block;
+    background-color:brown;
+    padding: 20px;
+}
+
+.main iframe {
+    max-width: 100%;
+    float: left;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+.main h2, h4 {
+    float: center;
+    padding-bottom: 10px;
+}
+
+.further-info {
+    background-color: black;
+    text-align: center;
+    padding: 20px;
+}
+
+.big-image {
+    max-width: 100%;
+    width: 100%;
+    height: auto;
+}
